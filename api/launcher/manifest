@@ -1,0 +1,120 @@
+{
+    "version":  "0.1.0-beta.1",
+    "releaseDate":  "2026-08-23T21:45:08.3041491-03:00",
+    "files":  [
+                  {
+                      "relativePath":  "Main.exe",
+                      "sha256":  "6d6211477c9a2751b4a567db262373a00e82bd302bc5a7c3df0e92083a49a4c8",
+                      "sizeBytes":  10922496,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/Main.exe"
+                  },
+                  {
+                      "relativePath":  "MUnique.Client.Library.dll",
+                      "sha256":  "1bd38f1ec41208d88539600046f0e78c1681b1c3e8f4f30b9807fd3d51c1c754",
+                      "sizeBytes":  2677248,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MUnique.Client.Library.dll"
+                  },
+                  {
+                      "relativePath":  "glew32.dll",
+                      "sha256":  "a0822f6b1272689be78221a1b19054007c3f500dc584648a314301e8095d4284",
+                      "sizeBytes":  424960,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/glew32.dll"
+                  },
+                  {
+                      "relativePath":  "ogg.dll",
+                      "sha256":  "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
+                      "sizeBytes":  53248,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/ogg.dll"
+                  },
+                  {
+                      "relativePath":  "vorbisfile.dll",
+                      "sha256":  "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
+                      "sizeBytes":  999424,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/vorbisfile.dll"
+                  },
+                  {
+                      "relativePath":  "config.ini.template",
+                      "sha256":  "6f386e2291399c7f5f58c38e555704972b56ee50ad2f95425c9bd2a0105d57d1",
+                      "sizeBytes":  251,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/config.ini.template"
+                  },
+                  {
+                      "relativePath":  "fonts/DejaVuSans-Bold.ttf",
+                      "sha256":  "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895",
+                      "sizeBytes":  708920,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/DejaVuSans-Bold.ttf"
+                  },
+                  {
+                      "relativePath":  "fonts/DejaVuSans-LICENSE",
+                      "sha256":  "baa2e5e5cdb29e9052bbe4e171b2feb4b3314116ef9032fe11bd874c803cc815",
+                      "sizeBytes":  3937,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/DejaVuSans-LICENSE"
+                  },
+                  {
+                      "relativePath":  "fonts/DejaVuSans.ttf",
+                      "sha256":  "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+                      "sizeBytes":  759720,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/DejaVuSans.ttf"
+                  },
+                  {
+                      "relativePath":  "fonts/LiberationSans-Bold.ttf",
+                      "sha256":  "3973aa5054fb467dd5627245d3dc82e37bf16fe075756156a570455871351582",
+                      "sizeBytes":  414568,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/LiberationSans-Bold.ttf"
+                  },
+                  {
+                      "relativePath":  "fonts/LiberationSans-LICENSE",
+                      "sha256":  "78539c2d952b50d85720e212d2e7c1aea052fbb586241530e1e8811cbf1c3afd",
+                      "sizeBytes":  5886,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/LiberationSans-LICENSE"
+                  },
+                  {
+                      "relativePath":  "fonts/LiberationSans-Regular.ttf",
+                      "sha256":  "4659bc0c58c5028dd488ec928d41d9265db43d9b669fc14ca8b0832daca7b144",
+                      "sizeBytes":  410820,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/LiberationSans-Regular.ttf"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_01.OZJ",
+                      "sha256":  "d4020b7327802fe30e6c75002bfa3bc921819a20ccf7018f034ea0c9cc067498",
+                      "sizeBytes":  73812,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_01.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_02.OZJ",
+                      "sha256":  "bc4b42841f8b6192c108f435167cdd31ebe59a75a2397480d61c7e7091ae278d",
+                      "sizeBytes":  99781,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_02.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_03.OZJ",
+                      "sha256":  "4301ef5146b41e5f05243b31b85b0dae704748f9573dd02d5832009f1616e46d",
+                      "sizeBytes":  43091,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_03.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_04.OZJ",
+                      "sha256":  "9d7bafc172111cebb0dad51db02b5fc2d4678ff971515d54668701657060b29d",
+                      "sizeBytes":  45796,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_04.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_05.OZJ",
+                      "sha256":  "8d8e4cca9d58ad21105029917c465263b546e8402d8ee62abf635294421b4987",
+                      "sizeBytes":  43832,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_05.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords_back_06.OZJ",
+                      "sha256":  "a338777d8a78f0ae81ef24cc1012c0392adb20eddd33ac3cc48c4329cfedd6f0",
+                      "sizeBytes":  19494,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords_back_06.OZJ"
+                  },
+                  {
+                      "relativePath":  "Data/Logo/MuLords-logo.OZT",
+                      "sha256":  "b113b82d9c9f02c4dc79493328fce11735ce5980a164681c64386d6ba224ddf2",
+                      "sizeBytes":  524336,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.1.0-beta.1/MuLords-logo.OZT"
+                  }
+              ]
+}

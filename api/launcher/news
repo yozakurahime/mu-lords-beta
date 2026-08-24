@@ -1,0 +1,23 @@
+{
+  "news": [
+    {
+      "title": "Beta aberto do MU Lords",
+      "date": "23/08/2026",
+      "tag": "Open Beta",
+      "content": "Crie sua conta no site, teste a progressão hard até o nível 1000 e envie detalhes de qualquer problema encontrado."
+    },
+    {
+      "title": "Pontos progressivos por faixa",
+      "date": "23/08/2026",
+      "tag": "Balanceamento",
+      "content": "Os pontos aumentam conforme o nível e preservam a meta de aproximadamente 20 mil por atributo no nível 1000."
+    },
+    {
+      "title": "Launcher com reparo SHA-256",
+      "date": "23/08/2026",
+      "tag": "Cliente",
+      "content": "Use Diagnosticar e Reparar para validar os arquivos principais e baixar correções automaticamente."
+    }
+  ]
+}
+
