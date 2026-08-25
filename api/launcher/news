@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Loja, VIP e painel atualizados",
+      "date": "25/08/2026",
+      "tag": "Atualização 0.2.6",
+      "content": "O Menu Central e a loja receberam melhorias, com suporte aos tickets VIP e integração atualizada com o servidor. Feche o jogo e deixe o launcher concluir a atualização."
+    },
+    {
       "title": "Beta aberto do MU Lords",
       "date": "23/08/2026",
       "tag": "Open Beta",
@@ -20,4 +26,3 @@
     }
   ]
 }
-
