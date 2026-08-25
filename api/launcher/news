@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Roleta com suspense e revelação",
+      "date": "25/08/2026",
+      "tag": "Atualização 0.2.7",
+      "content": "A roleta agora acelera, desacelera e cria suspense antes de revelar o prêmio entregue pelo servidor. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "Loja, VIP e painel atualizados",
       "date": "25/08/2026",
       "tag": "Atualização 0.2.6",
