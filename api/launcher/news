@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Ticket VIP corrigido",
+      "date": "26/08/2026",
+      "tag": "Atualização 0.2.10",
+      "content": "O Ticket VIP LORDS agora possui nome, imagem e duração correta. Para ativá-lo, abra o inventário e clique com o botão direito sobre o ticket."
+    },
+    {
       "title": "Pontos completos até o nível 1000",
       "date": "26/08/2026",
       "tag": "Atualização 0.2.9",
