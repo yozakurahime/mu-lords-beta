@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Login mais claro e sem falso erro",
+      "date": "26/08/2026",
+      "tag": "Atualização 0.2.8",
+      "content": "Agora você pode preencher os dados enquanto o servidor conecta. Se clicar antes da conexão ficar pronta, o login aguardará e será enviado automaticamente, sem exibir um falso erro."
+    },
+    {
       "title": "Roleta com suspense e revelação",
       "date": "25/08/2026",
       "tag": "Atualização 0.2.7",
