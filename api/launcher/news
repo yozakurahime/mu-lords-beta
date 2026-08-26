@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Pontos completos até o nível 1000",
+      "date": "26/08/2026",
+      "tag": "Atualização 0.2.9",
+      "content": "O cliente agora mostra e permite distribuir corretamente mais de 65.535 pontos acumulados. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "Login mais claro e sem falso erro",
       "date": "26/08/2026",
       "tag": "Atualização 0.2.8",
