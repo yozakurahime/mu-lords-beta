@@ -1,6 +1,6 @@
 {
-  "version": "0.2.12-beta.1",
-  "releaseDate": "2026-08-27T14:36:00-03:00",
+  "version": "0.2.13-beta.1",
+  "releaseDate": "2026-08-27T14:48:00-03:00",
   "files": [
     {
       "relativePath": "MuMono.exe",
@@ -16,9 +16,9 @@
     },
     {
       "relativePath": "Client.Main.dll",
-      "sha256": "e81b7cd5cd0086704365111b7fe6b92d7515f77ae8e8ebaa02a9c52178398d50",
+      "sha256": "4c54f9b1dcab09b6fe8b33b7637ef2c485e0742d3827f7ecc97b37ee04091340",
       "sizeBytes": 16482304,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.12-beta.1/Client.Main.dll"
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.13-beta.1/Client.Main.dll"
     },
     {
       "relativePath": "Client.Data.dll",
