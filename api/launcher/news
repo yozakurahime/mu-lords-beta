@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Textos e símbolos corrigidos",
+      "date": "27/08/2026",
+      "tag": "Atualização 0.2.11",
+      "content": "Corrigimos a ortografia e a acentuação do MU Helper, traduzimos o Ticket VIP e removemos símbolos incompatíveis que podiam aparecer como pontos de interrogação. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "Ticket VIP corrigido",
       "date": "26/08/2026",
       "tag": "Atualização 0.2.10",
