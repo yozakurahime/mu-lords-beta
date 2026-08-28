@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Guarda-Roupa Visual",
+      "date": "28/08/2026",
+      "tag": "Atualização 0.2.16",
+      "content": "O inventário ganhou slots cosméticos separados para elmo, armadura, calças, luvas, botas e asas ou capas. Use Ctrl + botão direito sobre uma peça para aplicar somente sua aparência, sem remover a armadura real nem alterar os atributos."
+    },
+    {
       "title": "Textos e símbolos corrigidos",
       "date": "27/08/2026",
       "tag": "Atualização 0.2.11",
