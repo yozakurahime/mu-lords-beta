@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Identidade e informações atualizadas",
+      "date": "29/08/2026",
+      "tag": "Atualização 0.2.18",
+      "content": "O site e o launcher agora apresentam somente a identidade MU LORDS e destacam os sistemas atuais do beta: cliente C# HD, MU Helper, eventos automáticos, Guarda-Roupa Visual, loja LCoins e progressão Hard sem reset."
+    },
+    {
       "title": "Eventos automáticos em horário de Brasília",
       "date": "29/08/2026",
       "tag": "Atualização 0.2.17",
