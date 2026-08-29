@@ -16,7 +16,7 @@
     },
     {
       "relativePath": "Client.Main.dll",
-      "sha256": "540e8ecc17f4e22ff901b48488f9b92590d5cfa17252949f662ec7854750a79b",
+      "sha256": "73ba6ee609ac78fde1ab7f0a41b7bbdb4a27a137c9beddfa6d1b0e35bd43a0d4",
       "sizeBytes": 10162176,
       "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.23-beta.1/Client.Main.dll"
     },
