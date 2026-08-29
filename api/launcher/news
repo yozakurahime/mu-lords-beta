@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Novas recompensas do Passe",
+      "date": "29/08/2026",
+      "tag": "Atualização 0.2.22",
+      "content": "O Passe de Batalha agora entrega joias nos dias comuns e Caixas de Kundun nos marcos semanais. LCoins ficaram restritos aos dias 15 e 30. Itens aguardam no servidor caso o inventário esteja cheio."
+    },
+    {
       "title": "Passe de Batalha diário",
       "date": "29/08/2026",
       "tag": "Atualização 0.2.21",
