@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Passe de Batalha diário",
+      "date": "29/08/2026",
+      "tag": "Atualização 0.2.21",
+      "content": "O Menu Central ganhou um Passe de Batalha com trilhas gratuita e VIP. Permaneça online por 60 minutos no dia para receber LCoins automaticamente; marcos semanais e o fechamento da temporada entregam recompensas maiores."
+    },
+    {
       "title": "Saga dos Lords e temporada PvP",
       "date": "29/08/2026",
       "tag": "Atualização 0.2.20",
