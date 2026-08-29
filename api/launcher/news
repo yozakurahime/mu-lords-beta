@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Eventos automáticos em horário de Brasília",
+      "date": "29/08/2026",
+      "tag": "Atualização 0.2.17",
+      "content": "Blood Castle, Devil Square, Chaos Castle, invasões e Happy Hour agora seguem uma rotação automática. Consulte todos os horários na aba Eventos do Menu Central."
+    },
+    {
       "title": "Guarda-Roupa Visual",
       "date": "28/08/2026",
       "tag": "Atualização 0.2.16",
