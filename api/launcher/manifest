@@ -1,6 +1,6 @@
 {
-  "version": "0.2.23-beta.1",
-  "releaseDate": "2026-08-29T19:30:00-03:00",
+  "version": "0.2.24-beta.1",
+  "releaseDate": "2026-08-30T00:30:00-03:00",
   "files": [
     {
       "relativePath": "MuMono.exe",
@@ -16,9 +16,9 @@
     },
     {
       "relativePath": "Client.Main.dll",
-      "sha256": "73ba6ee609ac78fde1ab7f0a41b7bbdb4a27a137c9beddfa6d1b0e35bd43a0d4",
-      "sizeBytes": 10162176,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.23-beta.1/Client.Main.dll"
+      "sha256": "9ec421b6f8fffda47ba1c962c34943e38f8829830570da08b066a0f0e95f9538",
+      "sizeBytes": 10165248,
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.24-beta.1/Client.Main.dll"
     },
     {
       "relativePath": "Data/Item/Sword101.bmd",

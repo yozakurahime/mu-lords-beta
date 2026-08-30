@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Nova interface MU LORDS",
+      "date": "30/08/2026",
+      "tag": "Atualização 0.2.24",
+      "content": "Começou a modernização geral da interface: teleporte redesenhado, botões mais claros, Menu Central completo, Helper reposicionado, chat livre do HUD, status real de conexão e loading animado. Cliques sobre a interface não movimentam nem atacam mais o personagem."
+    },
+    {
       "title": "Primeira arma visual customizada",
       "date": "29/08/2026",
       "tag": "Atualização 0.2.23",
