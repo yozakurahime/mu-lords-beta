@@ -1,6 +1,6 @@
 {
-  "version": "0.2.31-beta.1",
-  "releaseDate": "2026-08-31T13:08:30-03:00",
+  "version": "0.2.32-beta.1",
+  "releaseDate": "2026-08-31T15:04:31-03:00",
   "files": [
     {
       "relativePath": "MuMono.exe",
@@ -16,9 +16,9 @@
     },
     {
       "relativePath": "Client.Main.dll",
-      "sha256": "de60b86fbc4aaa932ccb758774eedc0a27eecf1e0b55dd12962697901d289ebb",
-      "sizeBytes": 10188800,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.31-beta.1/Client.Main.dll"
+      "sha256": "328770b8824691444c1e9a10e59db6f74bd6fe983a173d3642c0644859f5258c",
+      "sizeBytes": 10189312,
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.32-beta.1/Client.Main.dll"
     },
     {
       "relativePath": "Data/Interface/MuLords/Hud/hud_bottom_frame_v3.png",
