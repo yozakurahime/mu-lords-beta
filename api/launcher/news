@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Itens das lojas NPC corrigidos",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.36",
+      "content": "As miniaturas dos itens agora são preparadas antes da loja aparecer. Também unificamos o tratamento de transparência com o inventário para impedir itens invisíveis ou com fundo preto. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "Open Alpha e fórum da comunidade",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.34",
