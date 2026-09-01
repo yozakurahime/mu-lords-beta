@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Estrutura do cliente organizada",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.37",
+      "content": "Reorganizamos a pasta do jogo movendo todas as DLLs e arquivos internos para a subpasta bin/, deixando o inicializador destacado na raiz. O launcher migra os arquivos locais automaticamente, sem necessidade de baixar os dados de novo."
+    },
+    {
       "title": "Itens das lojas NPC corrigidos",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.36",
