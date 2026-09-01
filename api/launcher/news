@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Open Alpha e fórum da comunidade",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.34",
+      "content": "O executável agora se chama MuLords.exe e recebeu um novo ícone oficial. O launcher oculta o endereço técnico da conexão, e o site ganhou um fórum para relatos de bugs, sugestões, ajuda, guildas e comércio. Esta é uma Open Alpha instável: muitos bugs ainda são esperados."
+    },
+    {
       "title": "Nova interface MU LORDS",
       "date": "30/08/2026",
       "tag": "Atualização 0.2.24",
@@ -40,7 +46,7 @@
       "title": "Identidade e informações atualizadas",
       "date": "29/08/2026",
       "tag": "Atualização 0.2.18",
-      "content": "O site e o launcher agora apresentam somente a identidade MU LORDS e destacam os sistemas atuais do beta: cliente C# HD, MU Helper, eventos automáticos, Guarda-Roupa Visual, loja LCoins e progressão Hard sem reset."
+      "content": "O site e o launcher agora apresentam somente a identidade MU LORDS e destacam os sistemas atuais: MU Helper, eventos automáticos, Guarda-Roupa Visual, loja LCoins e progressão Hard sem reset."
     },
     {
       "title": "Eventos automáticos em horário de Brasília",
@@ -91,9 +97,9 @@
       "content": "O Menu Central e a loja receberam melhorias, com suporte aos tickets VIP e integração atualizada com o servidor. Feche o jogo e deixe o launcher concluir a atualização."
     },
     {
-      "title": "Beta aberto do MU Lords",
+      "title": "Open Alpha do MU LORDS",
       "date": "23/08/2026",
-      "tag": "Open Beta",
+      "tag": "Open Alpha",
       "content": "Crie sua conta no site, teste a progressão hard até o nível 1000 e envie detalhes de qualquer problema encontrado."
     },
     {
