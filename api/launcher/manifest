@@ -133,6 +133,48 @@
                       "sha256":  "abf9f1e783277ec98b333846f268f99722d63cb093df7dd5333ef5aa636c4b07",
                       "sizeBytes":  451,
                       "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.34-beta.1/launcher_config.json"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords/Hud/hud_bottom_frame_v3.png",
+                      "sha256":  "8fb4df71f714747cb074bf5a705a55711ebdae469a19baaa28e59f6cdb70fbe9",
+                      "sizeBytes":  745720,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.29-beta.1/hud_bottom_frame_v3.png"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords/Hud/hud_bottom_frame_v2.png",
+                      "sha256":  "a056ca7df903f2b20718f0ad6df2d0a03cbee6f27f415cb7905478eee35c3fea",
+                      "sizeBytes":  722037,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.27-beta.1/hud_bottom_frame_v2.png"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords/Hud/hud_bottom_frame_v1.png",
+                      "sha256":  "8359c1e13dc34be547aa22170fc1d1c80a18b99abd9186909f76d0276f88feee",
+                      "sizeBytes":  740183,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.26-beta.1/hud_bottom_frame_v1.png"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords/Hud/orb_hp_fill_v1.png",
+                      "sha256":  "285c38535d89e03277c1cdcd228032c0823fa51413fe9f31c7a7e3143da45789",
+                      "sizeBytes":  1635064,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.26-beta.1/orb_hp_fill_v1.png"
+                  },
+                  {
+                      "relativePath":  "Data/Interface/MuLords/Hud/orb_mp_fill_v1.png",
+                      "sha256":  "4f1b41bda602c2bc66c800a6e529e5ae59b73ffd73e166dcd0009d99d135408e",
+                      "sizeBytes":  1876490,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.26-beta.1/orb_mp_fill_v1.png"
+                  },
+                  {
+                      "relativePath":  "Data/Item/Sword101.bmd",
+                      "sha256":  "c319b36081200992d8e58a5ecae9dbd87268b711d5bc09b4a2ae32a909762428",
+                      "sizeBytes":  26782,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.23-beta.1/Sword101.bmd"
+                  },
+                  {
+                      "relativePath":  "Data/Item/sword_a.png",
+                      "sha256":  "c09d831b35976b4f1436fa9d66e443b3e242ff2a53d4ab5902fb05b4383b80f3",
+                      "sizeBytes":  10595,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.31-beta.1/sword_a.png"
                   }
               ],
     "obsoleteFiles":  [
