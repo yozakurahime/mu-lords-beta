@@ -1,9 +1,9 @@
 {
   "status": "ONLINE",
-  "message": "Beta aberto disponível",
+  "message": "Open Alpha disponível",
   "onlinePlayers": 0,
   "season": "Season 6 Episode 3",
   "rates": "5x Hard No-Reset",
-  "connectHost": "mulords.ddns.net",
+  "connectHost": "game.mulords.net",
   "connectPort": 44406
 }
