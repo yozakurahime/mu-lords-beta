@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Efeitos visuais das habilidades",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.39",
+      "content": "Habilidades ofensivas que exibiam somente a animação e o dano agora possuem projéteis, impactos ou partículas visíveis. As versões Master foram associadas às famílias corretas e os efeitos dos outros jogadores também aparecem."
+    },
+    {
       "title": "Ataque em movimento corrigido",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.38",
