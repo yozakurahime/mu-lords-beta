@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Texturas dos mapas estabilizadas",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.43",
+      "content": "Corrigimos trocas repentinas de textura causadas pelo nível de detalhe do terreno, isolamos os estados gráficos do passe de sombras e ajustamos o recorte de terrenos elevados. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "PvP clássico liberado",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.42",
