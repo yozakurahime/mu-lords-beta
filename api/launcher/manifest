@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.37-beta.1",
-    "releaseDate":  "2026-09-01T20:08:13.7453594-03:00",
+    "version":  "0.2.38-beta.1",
+    "releaseDate":  "2026-09-01T21:53:25-03:00",
     "files":  [
                   {
                       "relativePath":  "bin/MuLords.exe",
@@ -28,9 +28,9 @@
                   },
                   {
                       "relativePath":  "bin/Client.Main.dll",
-                      "sha256":  "33e0dbf7d744d63bd5582a948e613d68331c29d6c0741569e72cffaf38bb8646",
-                      "sizeBytes":  16658432,
-                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.37-beta.1/Client.Main.dll"
+                      "sha256":  "3f46e2d378bd3568aa132488c07a53b3f092fe2575cc415df0e5f537984aa35c",
+                      "sizeBytes":  10197504,
+                      "downloadUrl":  "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.38-beta.1/Client.Main.dll"
                   },
                   {
                       "relativePath":  "bin/Client.Data.dll",

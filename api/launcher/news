@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Ataque em movimento corrigido",
+      "date": "01/09/2026",
+      "tag": "Atualização 0.2.38",
+      "content": "O cliente agora conclui o deslocamento aceito pelo servidor antes de atacar ou usar uma habilidade, eliminando o pequeno teleporte causado pela correção de posição. Feche o jogo e atualize pelo launcher."
+    },
+    {
       "title": "Estrutura do cliente organizada",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.37",
