@@ -3,8 +3,8 @@
     {
       "title": "PvP clássico liberado",
       "date": "01/09/2026",
-      "tag": "Atualização 0.2.40",
-      "content": "Fora das zonas seguras, segure Ctrl e use o clique esquerdo para atacar outro jogador ou o clique direito para usar a habilidade selecionada. O cursor indica quando o alvo pode ser atacado; em duelos, Ctrl não é necessário."
+      "tag": "Atualização 0.2.41",
+      "content": "Fora das zonas seguras, segure Ctrl e use o clique esquerdo para atacar outro jogador ou o clique direito para usar a habilidade selecionada. Se estiver distante, o personagem se aproxima e ataca ao alcançar o alvo. O atalho do Guarda-Roupa Visual agora é Shift + botão direito."
     },
     {
       "title": "Efeitos visuais das habilidades",
