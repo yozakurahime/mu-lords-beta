@@ -1,6 +1,18 @@
 {
   "news": [
     {
+      "title": "MU Helper inteligente e janelas móveis",
+      "date": "04/09/2026",
+      "tag": "Atualização 0.2.44",
+      "content": "O MU Helper agora consome Poções Grandes e Complexas em alta frequência (0.35s), bebe Poções de Mana automáticas, fixa-se firmemente ao centro do spot e desvencilha-se de alvos inalcançáveis (anti-stuck). Todas as janelas de interface (Personagem 'C', Mover 'M', Árvore Master 'A', Helper e Menu Lords) agora são móveis por clique e arraste no cabeçalho com travamento inteligente nas bordas da tela."
+    },
+    {
+      "title": "Menu Lords e novos mapas com spots",
+      "date": "04/09/2026",
+      "tag": "Novidades",
+      "content": "O antigo Menu VIP agora é oficialmente 'Menu Lords' com layout expandido. Além disso, os novos mapas (Ferea, Nixies Lake, Deep Dungeon e Swamp of Darkness) contam com teleporte liberado e spots balanceados."
+    },
+    {
       "title": "Texturas dos mapas estabilizadas",
       "date": "01/09/2026",
       "tag": "Atualização 0.2.43",

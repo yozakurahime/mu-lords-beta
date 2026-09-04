@@ -2,4 +2,5 @@ packages/
 patch-assets/
 *.zip
 *.download
+*.exe
 
