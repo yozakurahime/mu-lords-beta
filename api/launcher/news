@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Duração dos buffs da Elfa estendida para 20 minutos",
+      "date": "04/09/2026",
+      "tag": "Atualização 0.2.45",
+      "content": "Aumentamos a duração de todos os buffs da Elfa (Greater Damage, Greater Defense, Infinity Arrow e suas evoluções Master) e do NPC Elf Soldier para 20 minutos (1200 segundos). O HUD agora exibe a contagem regressiva precisa de 20m, cores dedicadas na barra de tempo e o MU Helper foi otimizado para não desperdiçar mana conjurando buffs repetidos enquanto ainda estiverem ativos."
+    },
+    {
       "title": "MU Helper inteligente e janelas móveis",
       "date": "04/09/2026",
       "tag": "Atualização 0.2.44",
