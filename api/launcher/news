@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: Slots e Blackjack",
+      "date": "09/09/2026",
+      "tag": "Atualização 0.2.46",
+      "content": "O Menu Lords recebeu a Lords Bet com câmbio de Jewel of Soul por 100 pontos e Jewel of Bless por 50 pontos. A nova área inclui Slots 3x5 com paylines, Wild e rolos animados, Blackjack persistente, Cara ou Coroa e Roleta. Sorteios, saldos e pagamentos são processados pelo servidor."
+    },
+    {
       "title": "Duração dos buffs da Elfa estendida para 20 minutos",
       "date": "04/09/2026",
       "tag": "Atualização 0.2.45",
