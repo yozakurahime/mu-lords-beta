@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Correção de entrada no jogo e carregamento de mundos",
+      "date": "11/09/2026",
+      "tag": "Atualização 0.2.47",
+      "content": "Correção da tela preta que ocorria ao selecionar o personagem e clicar em entrar no jogo. Otimização no carregamento assíncrono dos terrenos e descoberta dinâmica de dados para compatibilidade total entre múltiplos PCs."
+    },
+    {
       "title": "Lords Bet: Slots e Blackjack",
       "date": "09/09/2026",
       "tag": "Atualização 0.2.46",
