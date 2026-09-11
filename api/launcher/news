@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Correção Definitiva de Entrada no Jogo (TouchMenu)",
+      "date": "11/09/2026",
+      "tag": "Atualização 0.2.49",
+      "content": "Correção do erro crítico IndexOutOfRangeException no menu touch HUD (TouchMenuControl.LayoutRects) ao carregar a interface clássica do jogo. O alinhamento das opções (incluindo o novo menu Lords Bet) e grades de navegação foram sincronizados."
+    },
+    {
       "title": "Melhorias de Estabilidade e Fallback na Troca de Cenas",
       "date": "11/09/2026",
       "tag": "Atualização 0.2.48",
