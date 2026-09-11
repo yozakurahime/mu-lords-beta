@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Melhorias de Estabilidade e Fallback na Troca de Cenas",
+      "date": "11/09/2026",
+      "tag": "Atualização 0.2.48",
+      "content": "Correção de retorno para a tela de seleção de personagens ao entrar no jogo. Adicionado sistema inteligente de fallback de mundos para Lorencia caso haja falha ou arquivos ausentes, proteções contra estados nulos no herói e sistema de diagnóstico direto com client_error.log e alertas visuais na interface."
+    },
+    {
       "title": "Correção de entrada no jogo e carregamento de mundos",
       "date": "11/09/2026",
       "tag": "Atualização 0.2.47",
