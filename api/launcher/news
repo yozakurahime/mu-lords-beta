@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: nova interface de cassino",
+      "date": "11/09/2026",
+      "tag": "Atualização 0.2.50",
+      "content": "Nova seleção de jogos e mesa gráfica no Lords Bet: roleta de multiplicadores com desaceleração, slots com cinco rolos, cartas de Blackjack e animação de Cara ou Coroa. Soul continua valendo 100 pontos e Bless 50. Resultados e saldos permanecem controlados pelo servidor. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Correção Definitiva de Entrada no Jogo (TouchMenu)",
       "date": "11/09/2026",
       "tag": "Atualização 0.2.49",
