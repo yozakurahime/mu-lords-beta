@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: texturas e mesas ampliadas",
+      "date": "11/09/2026",
+      "tag": "Atualização 0.2.51",
+      "content": "Interface ampliada do Lords Bet com mesa de feltro, joias ilustradas nos slots, cartas com faces e versos, fichas, moedas e roleta texturizada. Animações de rolos, distribuição de cartas e moeda. Soul = 100 pontos e Bless = 50 pontos; resultados continuam controlados pelo servidor. Feche o jogo e reabra o launcher para instalar os novos arquivos e texturas."
+    },
+    {
       "title": "Lords Bet: nova interface de cassino",
       "date": "11/09/2026",
       "tag": "Atualização 0.2.50",
