@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Transferência de Itens para o Baú e Atalho Rápido",
+      "date": "14/09/2026",
+      "tag": "Atualização 0.2.52",
+      "content": "Correção no envio e depósito de itens do inventário para o baú (Vault), com cálculo corrigido de slots e páginas do Season 6. Adicionada transferência rápida com botão direito entre o inventário e o baú em ambas as direções."
+    },
+    {
       "title": "Lords Bet: texturas e mesas ampliadas",
       "date": "11/09/2026",
       "tag": "Atualização 0.2.51",
