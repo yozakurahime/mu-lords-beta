@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: saldo sincronizado com o resultado",
+      "date": "16/09/2026",
+      "tag": "Atualização 0.2.55",
+      "content": "O saldo de créditos agora é atualizado na tela depois que a animação termina e o resultado é revelado. Corrigida a exibição antecipada do retorno durante o giro dos slots. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: slots com linhas premiadas e tabela de prêmios",
       "date": "16/09/2026",
       "tag": "Atualização 0.2.54",
