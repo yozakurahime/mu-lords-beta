@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Blackjack: mesa completa no jogo e navegador",
+      "date": "16/09/2026",
+      "tag": "Atualizacao 0.2.57",
+      "content": "Blackjack web e mobile, cartas em sequencia e recuperacao da partida. Apostas por mao, total apostado, retorno e lucro separados. Divisao e dobro revisados com testes de saldo e comandos repetidos. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: roleta, jackpot e cassino web",
       "date": "16/09/2026",
       "tag": "Atualização 0.2.56",
