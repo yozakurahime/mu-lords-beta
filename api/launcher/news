@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: slots com linhas premiadas e tabela de prêmios",
+      "date": "16/09/2026",
+      "tag": "Atualização 0.2.54",
+      "content": "Slots com parada progressiva dos cinco rolos, destaque das combinações premiadas, guia das cinco linhas e tabela de prêmios. A mesa mostra aposta, retorno e saldo da rodada, incluindo retornos parciais. Proteção contra cobrança duplicada da mesma solicitação. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: roleta completa e blackjack com duas mãos",
       "date": "15/09/2026",
       "tag": "Atualização 0.2.53",
