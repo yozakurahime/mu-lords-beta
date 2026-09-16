@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: roleta completa e blackjack com duas mãos",
+      "date": "15/09/2026",
+      "tag": "Atualização 0.2.53",
+      "content": "Nova roleta de 0 a 36 com apostas em cores, pares e ímpares, faixas, dúzias, colunas e números. Blackjack com dobrar, dividir pares, duas mãos e custos nos botões. Mesas com placares, regras e retornos mais claros. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Transferência de Itens para o Baú e Atalho Rápido",
       "date": "14/09/2026",
       "tag": "Atualização 0.2.52",
