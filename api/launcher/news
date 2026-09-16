@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: roleta, jackpot e cassino web",
+      "date": "16/09/2026",
+      "tag": "Atualização 0.2.56",
+      "content": "Roleta com apostas até 1000 CR, sons sincronizados e cassino web em /bet para desktop e celular. Jackpot progressivo integrado, histórico na conta e painel de auditoria. Proteção contra pacotes duplicados em Cara ou Coroa e câmbio de joias. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: saldo sincronizado com o resultado",
       "date": "16/09/2026",
       "tag": "Atualização 0.2.55",

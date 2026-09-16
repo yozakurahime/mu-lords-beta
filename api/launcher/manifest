@@ -1,18 +1,18 @@
 {
-  "version": "0.2.55-beta.1",
-  "releaseDate": "2026-09-16T04:20:52.047Z",
+  "version": "0.2.56-beta.1",
+  "releaseDate": "2026-09-16T19:10:09.069Z",
   "files": [
     {
       "relativePath": "bin/MuLords.exe",
-      "sha256": "0cb2cca563a4db31c0d1a4792cc0cefb97d9aa4a61d1808eb7833cb7fe189fec",
+      "sha256": "79e9d035356a5b85e867c2816aa012f78d35e4dbc19c6a3aa14ef9c6d22a01a7",
       "sizeBytes": 320000,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.55-beta.1/MuLords.exe"
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.56-beta.1/MuLords.exe"
     },
     {
       "relativePath": "bin/MuLords.dll",
-      "sha256": "78cbb3fdc37a296754390e794fe8d4f9c8f62e39c13c1b89de4d1125735b2132",
+      "sha256": "ac692cb54517cb1fb9413520193b5e037fc135326fcfbc46dce3055371b6af57",
       "sizeBytes": 176128,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.55-beta.1/MuLords.dll"
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.56-beta.1/MuLords.dll"
     },
     {
       "relativePath": "bin/MuLords.deps.json",
@@ -28,21 +28,21 @@
     },
     {
       "relativePath": "bin/Client.Main.dll",
-      "sha256": "b2af37fa3df6202f541ff6fefc9b32917bfc5b1bf37e3e2bf3d348e7658d777d",
-      "sizeBytes": 17063936,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.55-beta.1/Client.Main.dll"
+      "sha256": "bf89bd0bd72ef4d8fbcf33cd549b322227cd23ec36865f86d690d7cce8dd5a08",
+      "sizeBytes": 17080320,
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.56-beta.1/Client.Main.dll"
     },
     {
       "relativePath": "bin/Client.Data.dll",
-      "sha256": "e405d3407c59561e9ba15085952b725360101d78ba1ea8ad00678787c9bfebf4",
+      "sha256": "80b4057bb959be4d8d4ea1f9a219050cd81d81a277169772da0749aff615ac45",
       "sizeBytes": 180224,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.55-beta.1/Client.Data.dll"
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.56-beta.1/Client.Data.dll"
     },
     {
       "relativePath": "bin/Client.Telemetry.dll",
-      "sha256": "b4461057d8ec8f8d6e22d73b7c1fa467c60ab471fef552182de5c577c814f812",
+      "sha256": "4d912fa99c03623c54abfa81644b84d657b06c98128054a26f176bed3240729c",
       "sizeBytes": 241664,
-      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.55-beta.1/Client.Telemetry.dll"
+      "downloadUrl": "https://github.com/yozakurahime/mu-lords-beta/releases/download/v0.2.56-beta.1/Client.Telemetry.dll"
     },
     {
       "relativePath": "bin/appsettings.json",
