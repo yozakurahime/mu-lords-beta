@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Blackjack: desistir e dividir ate quatro maos",
+      "date": "16/09/2026",
+      "tag": "Atualizacao 0.2.58",
+      "content": "Desistencia na mao inicial com devolucao de metade da aposta. Novas divisoes ate quatro maos, cobrando uma aposta adicional em cada divisao. Mesa sincronizada entre jogo e navegador. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Blackjack: mesa completa no jogo e navegador",
       "date": "16/09/2026",
       "tag": "Atualizacao 0.2.57",
