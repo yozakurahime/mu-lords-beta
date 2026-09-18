@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: nova animacao da roleta",
+      "date": "17/09/2026",
+      "tag": "Atualizacao 0.2.61",
+      "content": "A roleta agora mantem o movimento durante a resposta do servidor, com desaceleracao suave e bolinha em sentido contrario que pousa no numero sorteado. O saldo aparece depois da parada. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: apostas livres e centavos de CR",
       "date": "17/09/2026",
       "tag": "Atualizacao 0.2.60",
