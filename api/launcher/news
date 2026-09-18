@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: apostas livres e centavos de CR",
+      "date": "17/09/2026",
+      "tag": "Atualizacao 0.2.60",
+      "content": "Escolha apostas inteiras a partir de 1 CR em todos os jogos, incluindo Perfect Pairs e 21+3. Saldos e premios agora preservam centavos: blackjack de 1 CR retorna 2,50 CR, seguro custa 0,50 CR. O saldo continua sendo revelado apos a animacao. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Blackjack: Perfect Pairs, 21+3 e seguro",
       "date": "17/09/2026",
       "tag": "Atualizacao 0.2.59",
