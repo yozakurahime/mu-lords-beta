@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Lords Bet: interface da roleta e do 21",
+      "date": "19/09/2026",
+      "tag": "Atualizacao 0.2.62",
+      "content": "Roleta com selecao mais clara e painel de resultado renovado. Blackjack com controles maiores na web e melhor destaque das maos no jogo. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: nova animacao da roleta",
       "date": "17/09/2026",
       "tag": "Atualizacao 0.2.61",
