@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Auto-Sort, Minimapa e HUD de Eventos",
+      "date": "28/09/2026",
+      "tag": "Atualizacao 0.2.63",
+      "content": "Novo botao para organizar o inventario automaticamente por categorias. Clique no minimapa para andar via pathfinding ate coordenadas ou NPCs. HUD de eventos com contagem regressiva ao vivo e efeito de Combo do DK. Feche o jogo e reabra o launcher para atualizar."
+    },
+    {
       "title": "Lords Bet: interface da roleta e do 21",
       "date": "19/09/2026",
       "tag": "Atualizacao 0.2.62",
